@@ -1,0 +1,6 @@
+{
+  "name": "PantryLens",
+  "description": "Smart Fridge & Culinary Assistant — snap a photo of your open fridge to identify ingredients, discover tailored recipes, cook hands-free with voice read-aloud, and build your shopping list.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
